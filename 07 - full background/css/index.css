@@ -1,0 +1,9 @@
+#container {
+    background-color: rgba(153, 159, 163, 0.559);
+
+}
+body{
+    background-image: url(../img/background-img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
